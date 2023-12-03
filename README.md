@@ -11,3 +11,8 @@
 
     ## HTTP Status Code
 
+
+    ---
+
+    Autor do resumo: Ellen Virginia - 01570521
+
